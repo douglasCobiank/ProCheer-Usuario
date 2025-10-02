@@ -1,0 +1,15 @@
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/bin/Debug/net9.0/Usuario.Core.deps.json
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/bin/Debug/net9.0/Usuario.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/bin/Debug/net9.0/Usuario.Core.pdb
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/bin/Debug/net9.0/Usuario.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/bin/Debug/net9.0/Usuario.Infrastructure.pdb
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.csproj.AssemblyReference.cache
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.AssemblyInfoInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.AssemblyInfo.cs
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.csproj.CoreCompileInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario..C74FC4A4.Up2Date
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/refint/Usuario.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.pdb
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/ref/Usuario.Core.dll
