@@ -53,6 +53,22 @@ namespace Usuario.API.Controllers
         {
             var response = await _usuarioHandler.BuscaUsuarioByUserAsync(login, senha);
 
+            return Ok(new[] { response });
+        }
+
+        [HttpPost("buscar-usuario-id/{id}")]
+        public async Task<IActionResult> BuscarUsuarioPorId(int id)
+        {
+            var response = await _usuarioHandler.BuscaUsuarioByIdAsync(id);
+
+            return Ok(new[] { response });
+        }
+        
+        [HttpPost("buscar-usuario-nome/{nome}")]
+        public async Task<IActionResult> BuscarUsuarioPorNome(string nome)
+        {
+            var response = await _usuarioHandler.BuscaUsuarioByNomeAsync(nome);
+
             return Ok(new[] { response});
         }
     }

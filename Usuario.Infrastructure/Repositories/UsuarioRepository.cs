@@ -55,5 +55,10 @@ namespace Usuario.Infrastructure.Repositories
         {
             return await _dbSet.FirstOrDefaultAsync(a => a.UsuarioId == id);
         }
+
+        public async Task<UsuarioData?> GetByNomeAsync(string nome)
+        {
+            return await _dbSet.FirstOrDefaultAsync(a => a.Nome == nome);
+        }
     }
 }

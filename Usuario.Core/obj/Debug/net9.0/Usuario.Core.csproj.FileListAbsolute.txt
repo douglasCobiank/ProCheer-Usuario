@@ -13,3 +13,4 @@
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/refint/Usuario.Core.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.pdb
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/ref/Usuario.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.sourcelink.json

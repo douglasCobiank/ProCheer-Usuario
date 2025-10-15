@@ -7,6 +7,8 @@ namespace Usuario.Core.Interfaces
         Task CadastraUsuarioHandler(UsuarioDto usuarioDto);
         Task<List<UsuarioDto>> BuscaUsuarioAsync();
         Task<UsuarioDto?> BuscaUsuarioByUserAsync(string usuario, string senha);
+        Task<UsuarioDto?> BuscaUsuarioByIdAsync(int id);
+        Task<UsuarioDto?> BuscaUsuarioByNomeAsync(string nome);
         Task EditarUsuarioAsync(UsuarioDto user, int id);
         Task DeletaUsuarioAsync(int id);
     }

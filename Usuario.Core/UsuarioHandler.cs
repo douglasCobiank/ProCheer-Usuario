@@ -12,9 +12,19 @@ public class UsuarioHandler(IUsuarioService usuarioService) : IUsuarioHandler
         return await _usuarioService.GetUsuarioAsync();
     }
 
+    public async Task<UsuarioDto?> BuscaUsuarioByIdAsync(int id)
+    {
+        return await _usuarioService.GetUsuarioByIdAsync(id);
+    }
+
+    public async Task<UsuarioDto?> BuscaUsuarioByNomeAsync(string nome)
+    {
+        return await _usuarioService.GetUsuarioByNomeAsync(nome);
+    }
+
     public async Task<UsuarioDto?> BuscaUsuarioByUserAsync(string usuario, string senha)
     {
-        return await _usuarioService.GetUsuarioByIdAsync(usuario, senha);
+        return await _usuarioService.GetUsuarioByLoginAsync(usuario, senha);
     }
 
     public async Task CadastraUsuarioHandler(UsuarioDto usuarioDto)

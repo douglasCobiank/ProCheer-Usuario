@@ -173,3 +173,4 @@
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.pdb
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.genruntimeconfig.cache
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/ref/Usuario.API.dll
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.sourcelink.json

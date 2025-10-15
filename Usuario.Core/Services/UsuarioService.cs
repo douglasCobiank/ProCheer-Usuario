@@ -50,9 +50,21 @@ namespace Usuario.Core.Services
             return _mapper.Map<List<UsuarioDto>>(atletasData);
         }
 
-        public async Task<UsuarioDto?> GetUsuarioByIdAsync(string usuario, string senha)
+        public async Task<UsuarioDto?> GetUsuarioByIdAsync(int id)
+        {
+            var atletaData = _usuarioRepository.GetByIdAsync(id);
+            return atletaData is null ? null : _mapper.Map<UsuarioDto>(atletaData.Result);
+        }
+
+        public async Task<UsuarioDto?> GetUsuarioByLoginAsync(string usuario, string senha)
         {
             var atletaData = _usuarioRepository.GetByUsuarioeSenhaAsync(usuario, senha);
+            return atletaData is null ? null : _mapper.Map<UsuarioDto>(atletaData.Result);
+        }
+
+        public async Task<UsuarioDto?> GetUsuarioByNomeAsync(string nome)
+        {
+            var atletaData = _usuarioRepository.GetByNomeAsync(nome);
             return atletaData is null ? null : _mapper.Map<UsuarioDto>(atletaData.Result);
         }
     }

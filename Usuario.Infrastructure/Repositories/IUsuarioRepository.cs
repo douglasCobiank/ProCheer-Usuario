@@ -9,6 +9,7 @@ namespace Usuario.Infrastructure.Repositories
         Task EditAsync(UsuarioData usuarioData);
         Task DeleteAsync(UsuarioData usuarioData);
         Task<UsuarioData?> GetByUsuarioeSenhaAsync(string usuario, string senha);
+        Task<UsuarioData?> GetByNomeAsync(string nome);
         Task<UsuarioData?> GetByIdAsync(int id);
         Task<IEnumerable<UsuarioData>> GetAllAsync();
         Task<IEnumerable<UsuarioData>> FindAsync(Expression<Func<UsuarioData, bool>> predicate);

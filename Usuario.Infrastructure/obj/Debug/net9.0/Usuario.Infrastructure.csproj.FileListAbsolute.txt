@@ -12,3 +12,4 @@
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Infrastructure/obj/Debug/net9.0/Usuario.Infrastructure.pdb
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Infrastructure/obj/Debug/net9.0/Usuario.Infrastructure.genruntimeconfig.cache
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Infrastructure/obj/Debug/net9.0/ref/Usuario.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Infrastructure/obj/Debug/net9.0/Usuario.Infrastructure.sourcelink.json
