@@ -11,7 +11,7 @@ using Usuario.Infrastructure.Data;
 namespace Usuario.Infrastructure.Migrations
 {
     [DbContext(typeof(CheerDbContext))]
-    [Migration("20251002134521_InitialCreate")]
+    [Migration("20251024201810_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

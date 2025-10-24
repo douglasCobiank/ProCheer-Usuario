@@ -9,7 +9,7 @@ namespace Usuario.Infrastructure.Data
         {
             var optionsBuilder = new DbContextOptionsBuilder<CheerDbContext>();
 
-            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=procampdb;Username=postgres;Password=postgres;KeepAlive=30");
+            optionsBuilder.UseNpgsql("Host=db.tugjkfhjgfzqttuexicr.supabase.co;Database=postgres;Username=postgres;Password=procheer2025;SSL Mode=Require;Trust Server Certificate=true");
 
             return new CheerDbContext(optionsBuilder.Options);
         }
