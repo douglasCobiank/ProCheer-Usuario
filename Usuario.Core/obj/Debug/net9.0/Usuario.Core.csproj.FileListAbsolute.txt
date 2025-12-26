@@ -8,9 +8,9 @@
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.AssemblyInfoInputs.cache
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.AssemblyInfo.cs
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.csproj.CoreCompileInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.sourcelink.json
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario..C74FC4A4.Up2Date
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/refint/Usuario.Core.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.pdb
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/ref/Usuario.Core.dll
-/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Core/obj/Debug/net9.0/Usuario.Core.sourcelink.json

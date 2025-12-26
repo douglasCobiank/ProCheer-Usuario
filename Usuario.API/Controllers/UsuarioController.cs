@@ -15,29 +15,29 @@ namespace Usuario.API.Controllers
         private readonly IMapper _mapper = mapper;
 
         [HttpPost("cadastrar")]
-        public IActionResult CriarUsuario([FromBody] Users usuarioDto)
+        public async Task<IActionResult> CriarUsuario([FromBody] Users usuarioDto)
         {
             var usuario = _mapper.Map<UsuarioDto>(usuarioDto);
-            _usuarioHandler.CadastraUsuarioHandler(usuario);
+            await _usuarioHandler.CadastraUsuarioHandler(usuario);
 
-            return Ok(new[] { $"Usuario criado" });
+            return NoContent();
         }
 
         [HttpPost("editar")]
-        public IActionResult EditarUsuario([FromBody] Users usuarioDto, int id)
+        public async Task<IActionResult> EditarUsuario([FromBody] Users usuarioDto, int id)
         {
             var usuario = _mapper.Map<UsuarioDto>(usuarioDto);
-            _usuarioHandler.EditarUsuarioAsync(usuario, id);
+            await _usuarioHandler.EditarUsuarioAsync(usuario, id);
 
-            return Ok(new[] { $"Usuario editado" });
+            return NoContent();
         }
 
         [HttpPost("deletar/{id}")]
-        public IActionResult DeletarUsuario(int id)
+        public async Task<IActionResult> DeletarUsuario(int id)
         {
-            _usuarioHandler.DeletaUsuarioAsync(id);
+            await _usuarioHandler.DeletaUsuarioAsync(id);
 
-            return Ok(new[] { $"Usuario deletado" });
+            return NoContent();
         }
 
         [HttpPost("buscar-usuarios")]
