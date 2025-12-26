@@ -11,6 +11,7 @@
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/bin/Debug/net9.0/Azure.Core.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/bin/Debug/net9.0/Azure.Identity.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/bin/Debug/net9.0/Humanizer.dll
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
@@ -159,6 +160,7 @@
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.csproj.CoreCompileInputs.cache
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.MvcApplicationPartsAssemblyInfo.cs
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.sourcelink.json
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/rjimswa.dswa.cache.json
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
@@ -173,4 +175,3 @@
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.pdb
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.genruntimeconfig.cache
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/ref/Usuario.API.dll
-/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.API/obj/Debug/net9.0/Usuario.API.sourcelink.json

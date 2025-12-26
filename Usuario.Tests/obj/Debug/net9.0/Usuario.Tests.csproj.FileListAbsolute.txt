@@ -172,3 +172,4 @@
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Tests/obj/Debug/net9.0/Usuario.Tests.genruntimeconfig.cache
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Tests/obj/Debug/net9.0/ref/Usuario.Tests.dll
 /Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Tests/obj/Debug/net9.0/Usuario.Tests.sourcelink.json
+/Users/douglascobiank/ProChamp/Backend/Usuario/Usuario.Tests/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
